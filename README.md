@@ -18,3 +18,6 @@
 [Cargadores y conversores DC-DC](https://github.com/javacasm/elcacharreo_static/blob/master/_posts/2017-01-13-DC-DC_converter.md)
 
 [Cómo funcionan las baterías de Tesla](https://github.com/javacasm/elcacharreo_static/blob/master/_posts/2015-02-24_bater%C3%ADas_tesla.md)
+
+
+[Fotos del proceso](https://photos.app.goo.gl/OntNVDbkwFo0k4dE2)

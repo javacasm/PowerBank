@@ -29,6 +29,24 @@
 
 [Colección de diseños](https://www.thingiverse.com/javacasm/collections/18650)
 
+
+
+## Proyectos
+
+* [Monster USB PowerBank](https://hackaday.com/2017/09/27/monstrous-usb-power-bank/) 100.000mAh
+
+  Usa [este contorlador 6$](https://www.tindie.com/products/ICStation/two-usb-mobile-power-bank-charger-pcb-board6876-/)
+
+  ![Controlador](https://d3s5r33r268y59.cloudfront.net/42304/products/thumbs/2017-08-29T06:30:06.513Z-6876_3.jpg.855x570_q85_pad_rcrop.jpg)
+
+  64 (8x8) 18650 baterías
+
+* [DIY PowerBank](https://hackaday.com/2017/05/21/diy-usb-power-bank/)
+
+  ![diy PowerBank](https://hackadaycom.files.wordpress.com/2017/05/batterybank_featured.png?w=800)
+
+* [20KWh DIY PowerWall](https://hackaday.com/2016/09/29/homebrew-powerwall-sitting-at-20kwh/)
+
 ## Referencias
 
 [Cargadores y conversores DC-DC](https://github.com/javacasm/elcacharreo_static/blob/master/_posts/2017-01-13-DC-DC_converter.md)
